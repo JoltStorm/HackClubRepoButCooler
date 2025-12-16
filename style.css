@@ -1,0 +1,20 @@
+* {
+    
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    width: 75%;
+}
+
+p {
+    font-size: 24px;
+    border-style: dashed;
+    border-color: white;
+    border-width: 4px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
